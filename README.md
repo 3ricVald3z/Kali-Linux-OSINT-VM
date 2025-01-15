@@ -190,7 +190,7 @@ Update and Upgrade
 
 ```console
 
-git clone 
+git clone https://github.com/3ricVald3z/Kali-Linux-OSINT-VM.git
 
 chmod +x *.sh
 
