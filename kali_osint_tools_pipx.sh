@@ -25,7 +25,6 @@ pipx install postleaksNg
 pipx install androguard
 pipx install bbot
 pipx install toutatis
-pipx install poetry
 pipx ensurepath
 
 cargo install aichat
