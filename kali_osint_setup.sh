@@ -6,7 +6,7 @@ apt install snapd mediainfo-gui kali-tools-crypto-stego neovim cargo asciinema r
 apt install finalrecon ugrep bloodhound bing-ip2hosts golang libxcb-cursor0 -y
 apt install mat2 gallery-dl libimage-exiftool-perl stegosuite exifprobe ruby-bundler mpg123 -y
 apt install thunderbird sq python3-lxml exiflooter flowblade dumpsterdiver -y
-apt install npm freerdp2-x11 ftp smbclient mongo-tools villain -y
+apt install npm ftp smbclient mongo-tools villain -y
 apt purge -y spiderfoot amass theharvester
 apt autoremove -y
 
