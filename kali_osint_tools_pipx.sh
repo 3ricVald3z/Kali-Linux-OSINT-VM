@@ -103,20 +103,6 @@ wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz
 cd ~/programs/
-git clone https://github.com/GuidoBartoli/sherloq.git
-cd sherloq/gui
-python3 -m venv sherloqEnvironment
-source sherloqEnvironment/bin/activate
-pip install -r requirements.txt
-deactivate
-cd ~/programs/
-git clone https://github.com/smicallef/spiderfoot.git
-cd spiderfoot
-python3 -m venv spiderfootEnvironment
-source spiderfootEnvironment/bin/activate
-pip install -r requirements.txt
-deactivate
-cd ~/programs/
 git clone https://github.com/laramies/theHarvester.git
 cd theHarvester
 python3 -m venv theHarvesterEnvironment
