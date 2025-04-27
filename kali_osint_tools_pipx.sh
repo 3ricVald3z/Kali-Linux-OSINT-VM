@@ -135,8 +135,6 @@ git clone https://github.com/jocephus/WikiLeaker.git
 git clone https://github.com/BillyV4/ID-entify.git
 git clone https://github.com/lolwaleet/ReverseIP.git
 git clone https://github.com/Raikia/UhOh365.git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
-git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/proabiral/Fresh-Resolvers.git
@@ -147,7 +145,6 @@ git clone https://github.com/TermuxHackz/X-osint.git
 git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
 git clone https://github.com/TarlogicSecurity/BlueSpy.git
 
-wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 wget https://downloads.mongodb.com/compass/mongodb-mongosh_2.3.1_amd64.deb
 wget https://repo.mongodb.org/apt/debian/dists/bookworm/mongodb-org/8.0/main/binary-amd64/mongodb-org-server_8.0.0_amd64.deb
 
