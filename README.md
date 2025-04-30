@@ -108,7 +108,7 @@ Snap Packages:
 [joplin-desktop](https://snapcraft.io/joplin-desktop),
 [ngrok](https://snapcraft.io/ngrok),
 [localxpose](https://snapcraft.io/localxpose),
-[telegram-desktop](https://snapcraft.io/telegram-desktop)
+[telegram-desktop](https://snapcraft.io/telegram-desktop),
 [potato chat](https://snapcraft.io/potato)
 
 Go Packages:
