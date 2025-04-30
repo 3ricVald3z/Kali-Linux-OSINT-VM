@@ -8,7 +8,8 @@ apt install mat2 gallery-dl libimage-exiftool-perl stegosuite exifprobe ruby-bun
 apt install thunderbird sq python3-lxml exiflooter flowblade dumpsterdiver -y
 apt install npm -y
 apt install ftp smbclient mongo-tools villain -y
-apt purge -y spiderfoot amass theharvester
+apt install spiderfoot -y
+apt purge -y amass theharvester
 apt autoremove -y
 
 npm install -g ftp-spider
