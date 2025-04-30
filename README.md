@@ -109,7 +109,7 @@ Snap Packages:
 [ngrok](https://snapcraft.io/ngrok),
 [localxpose](https://snapcraft.io/localxpose),
 [telegram-desktop](https://snapcraft.io/telegram-desktop),
-[potato chat](https://snapcraft.io/potato)
+[potato-chat](https://snapcraft.io/potato)
 
 Go Packages:
 
